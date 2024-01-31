@@ -5,10 +5,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://img.icons8.com/?size=512&id=I24lanX6Nq71&format=png" alt="phone" width="30" height="30"/> 010-5605-2258
+- 010-5605-2258
 </p>
 <p align="left">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="20" height="20"/> dpldpl123456@naver.com
+- dpldpl123456@naver.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
