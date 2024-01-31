@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devinix&label=Profile%20views&color=0e75b6&style=flat" alt="Devinix" /> </p>
 
 <h3 align="left">Connect with me</h3>
-<p>[Phone]: 010-5605-2258 </p>
-<p>[Email]: dpldpl123456@naver.com </p>
+<p align="left">
+<a href="tel:010-5605-2258"><img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" width="40" height="40"/></a> 010-5605-2258
+<a href="mailto:dpldpl123456@naver.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" width="40" height="40"/></a> dpldpl123456@naver.com
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
