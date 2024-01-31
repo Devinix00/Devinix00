@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Devinix&label=Profile%20views&color=0e75b6&style=flat" alt="Devinix" /> </p>
 
 <h3 align="left">Connect with me</h3>
-<p>- 010-5605-2258 </p>
-<p>- dpldpl123456@naver.com </p>
+<p>[Phone]: 010-5605-2258 </p>
+<p>[Email]: dpldpl123456@naver.com </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -19,6 +19,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devinix00&show_icons=true&locale=en&layout=compact" alt="Devinix" /></p>
+![Devinix' GitHub stats](https://github-readme-stats.vercel.app/api?username=Devinix00&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devinix00&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devinix00&show_icons=true&locale=en" alt="Devinix" /></p>
+
