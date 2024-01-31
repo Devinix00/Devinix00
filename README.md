@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm [Your Name]!
 
-<!--
-**Devinix00/Devinix00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you can write a brief introduction about yourself. For example, 'I am a passionate front-end developer creating user-friendly web applications using the latest technologies.'
 
-Here are some ideas to get you started:
+## 🛠 Skills and Tools
+- TypeScript
+- React
+- Next.js
+- SCSS
+- React-Query
+- Zustand
+- styled-components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact Me
+- Email: dpldpl123456@naver.com
+- Portfolio: https://resplendent-cobbler-2ff171.netlify.app/
+
+
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Devinix00&show_icons=true)
